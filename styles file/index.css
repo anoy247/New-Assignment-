@@ -115,6 +115,8 @@ height: 237;
      display: flex;
      justify-content: space-between;
      align-items: center;
+     gap: 200px;
+     max-width: 1140px;
 
 }
 
@@ -226,8 +228,8 @@ height: 237;
     background-color: rgb(245, 237, 237);
      border-radius: 15px;
     padding: 71px 50px;
-    max-width: 550px;
-    height: 250px;
+    max-width: 580px;
+    height: 280pxpx;
     margin: 0 auto;
     margin-top: 100px;
     text-align: center;
@@ -235,9 +237,11 @@ height: 237;
     gap: 100px;
 }
 .header-from{
-    width: 50px;
+    width: 300px;
     font-weight: bold;
     font-size: x-large;
+    height: 232px;
+    text-align: left;
 }
 
 main input[type="text"], main input[type=email], main textarea{
@@ -250,5 +254,31 @@ main input[type="text"], main input[type=email], main textarea{
     padding: 5px 10px;
     margin-bottom: 5px;
     border: none;
+}
+
+.footer-section{
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 233px 455px;
+    text-align: center;
+    height: 428px;
+   
+     
+}
+.section-description{
+    max-width: 1140px;
+    margin: 0 auto;
+    align-items: center;
+    justify-items: center;
+    height: 48px;
+   
+}
+
+.text-styley{
+  color: #4a45f2;
+  font-size: 100px;
+  font-family: inter;
+  font-weight: bolder;
+ 
 }
 
