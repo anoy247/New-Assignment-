@@ -1,0 +1,226 @@
+/* Nav Styles */
+
+.inter-normal{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  
+ 
+}
+/* share style */
+.text-primary{
+    color: #4E47FF;
+    height: 51px;
+    width: 99px;
+    font-weight: bolder;
+    
+}
+nav{
+    display: flex;
+    
+}
+
+header{
+    background-image: url(Assets/Hero-bg.png);
+    
+  
+}
+
+
+.nav-title{
+    font-weight: 900px;
+    font-size: 34px;
+    display: flex;
+    
+    
+}
+
+nav{
+     align-items: center;
+    justify-content: space-between;
+    margin: 0px 200px ;
+}
+
+
+.btn-primary{
+    background-color: #4E47FF;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 16;
+    padding: 12px 36px;
+    border-radius: 5px;
+    border: none;
+    
+}
+.btn-secondary{
+    background-color: #4E47FF;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 16;
+    padding: 12px 36px;
+    border-radius: 5px;
+    border: none;
+    margin: 100px 400px 0 400px;
+    width: 174;
+    height: 144; 
+   
+   
+}
+.banar-content{
+    justify-content: center;
+    padding-bottom: 100px;
+    
+}
+
+nav li{
+    display: flex;
+    
+}
+
+
+/* Banar-Description */
+.banar{
+display: flex;
+justify-content: space-between;
+margin: 152px 267px 267px 309px;
+width: 905;
+height: 237;
+
+
+
+
+}
+.banar-content{
+   color: #252432;
+   font-weight: bold;
+ 
+   
+   
+}
+
+.banar-description{  
+  height: 152px;
+  width: 905px;
+  font-weight: bold;
+  font-size: 65px;
+  display: flex;
+ margin: 170px 0 170px 0;
+  text-align: center;
+  text-justify: auto;
+  
+  
+}
+.about{
+     margin: 150px 159px 0px 200px;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+
+}
+
+.section-title{
+    font-size: larger;
+    
+    
+
+
+}
+.section-description{
+        height: 60px;
+        width: 517px;
+        display: flex;
+
+}
+.banar-pic{
+     height: 328px;
+     width: 403px;
+     border-radius: 50px;
+
+     
+
+}
+.next-part{
+    background-color: #c1bfeb;
+    border-radius: 50px;
+    height: 309px;
+    width: 1140px;
+    
+}
+.that-part{
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 100px 150px;
+    margin-top: 100px;
+    
+    
+    
+}
+.title-part{
+    font-size: 38px;
+    font-weight: 800;
+    width: 856px;
+    height: 45px;
+    margin: 0 200px 0 200px;
+    padding: 25px;
+    
+}
+.stats {
+  background: #c3c0f0;
+  padding: 40px;
+  border-radius: 40px;
+  text-align: center;
+  margin-top: 50px
+  ;
+}
+
+.stats h2 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.stat-block {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.header-stats{
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 100px;
+    
+}
+
+.number {
+  font-size: 60px;
+  font-weight: bold;
+  color: #4a45f2;
+}
+
+.label {
+  font-size: 16px; 
+  color: black;
+  margin-top: 8px;
+}
+.header-about{
+    border-radius: 15px;
+    
+}
+.this-about{
+    background-color: #f7c9c9;
+    border-radius: 15px;
+    padding: 71px 50px;
+    max-width: 1140px;
+    height: 600px;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+    
+}
+.img-fox{
+    border-radius: 15px;
+    margin-top: 100px;
+}
+
+
