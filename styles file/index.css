@@ -122,10 +122,12 @@ height: 237;
 
 .section-title{
     font-size: larger;
-    
-    
-
-
+   
+}
+.h1-action{
+    font-size: 42;
+     font-family: releway;
+    font-weight: bold;
 }
 .section-description{
         height: 60px;
