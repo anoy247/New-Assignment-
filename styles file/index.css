@@ -22,9 +22,11 @@ nav{
 
 header{
     background-image: url(Assets/Hero-bg.png);
+   
     
   
 }
+
 
 
 .nav-title{
@@ -107,8 +109,13 @@ height: 237;
  margin: 170px 0 170px 0;
   text-align: center;
   text-justify: auto;
+  font-family: raleway;
   
   
+}
+
+.font-section{
+    raleway
 }
 .about{
      margin: 150px 159px 0px 200px;
@@ -126,7 +133,7 @@ height: 237;
 }
 .h1-action{
     font-size: 42;
-     font-family: releway;
+     font-family: raleway;
     font-weight: bold;
 }
 .section-description{
@@ -210,7 +217,15 @@ height: 237;
 .header-about{
     border-radius: 15px;
     
+    
 }
+
+.head-about{
+   font-family: raleway;
+    font-size: 50px;
+    font-weight: bold;}
+
+
 .this-about{
     background-color: #f7c9c9;
     border-radius: 15px;
@@ -223,27 +238,32 @@ height: 237;
     
 }
 .img-fox{
-    border-radius: 15px;
-    margin-top: 100px;
+    border-radius: 25px;
+    margin: 25px 15px;
+    height: 365px;
+    width: 840px;
+        
 }
 .from{
     background-color: rgb(245, 237, 237);
-     border-radius: 15px;
+    border-radius: 15px;
     padding: 71px 50px;
-    max-width: 580px;
-    height: 280pxpx;
+    max-width: 800px;
+    height: 300px;
     margin: 0 auto;
     margin-top: 100px;
     text-align: center;
     display: flex;
     gap: 100px;
+    
 }
 .header-from{
     width: 300px;
     font-weight: bold;
-    font-size: x-large;
+    font-size: 30px;
     height: 232px;
     text-align: left;
+    font-family: raleway;
 }
 
 main input[type="text"], main input[type=email], main textarea{
@@ -280,7 +300,9 @@ main input[type="text"], main input[type=email], main textarea{
   color: #4a45f2;
   font-size: 100px;
   font-family: inter;
-  font-weight: bolder;
+   font-weight: 800px;
+   margin-bottom: 30px;
+   height: 100px;
   
  
 }
@@ -293,3 +315,16 @@ main input[type="text"], main input[type=email], main textarea{
  
 
 }
+
+.btn-from{
+    background-color: #4E47FF;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 16;
+    padding: 12px 200px;
+    border-radius: 5px;
+    border: none;
+   
+     
+}
+
